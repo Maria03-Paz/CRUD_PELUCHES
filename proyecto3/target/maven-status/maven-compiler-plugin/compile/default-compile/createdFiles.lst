@@ -1,0 +1,5 @@
+Config\Conexion.class
+Dao\Peluche.class
+Dao\PelucheBD.class
+Dao\Catalogo.class
+Dao\CatalogoBD.class
